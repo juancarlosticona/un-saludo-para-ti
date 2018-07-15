@@ -9,7 +9,7 @@ body
 header
 {
     background: url("../imagenes/hola.png") no-repeat 1% center
-        , url("../imagenes/fondo1.jpeg");
+        , url("../imagenes/fondo.jpg");
     background-size: 100px ,100px 100px;
     margin: 0 0 10px 0;
     padding: 1em 0;
