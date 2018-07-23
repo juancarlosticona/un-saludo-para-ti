@@ -214,6 +214,11 @@ nav li a:hover
     transition: all 1s ease;
     max-width: 100%;
 }
+#corazon
+{
+    color: rgba(0,0,0,0.3);
+    font-size: 1em;
+}
 @media screen and (max-width: 715px)
 {
     #chinito
